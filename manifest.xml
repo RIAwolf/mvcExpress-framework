@@ -1,4 +1,0 @@
-<?xml version="1.0"?>
-<componentPackage>
-	<component id="pureLegsCore" class="mvcexpress.core.namespace.pureLegsCore"/>
-</componentPackage>
